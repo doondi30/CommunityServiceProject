@@ -16,11 +16,15 @@ Welcome to the **Diabeaters App**,This app was developed as part of a **communit
 
 ## Features ✨
 
-- **Food & Exercise Monitoring**: Users can input their daily food consumption and exercise activities to monitor their overall health.
-- **Real-time Health Feedback**: The app evaluates user data and provides real-time feedback on whether their health status is in a safe, normal, or danger zone.
-- **Personalized Health Suggestions**: The app tracks user habits over time and offers personalized recommendations to improve their health.
-- **User-friendly Interface**: Simple and easy-to-navigate UI designed for users with limited digital literacy.
+- **Food & Exercise Tracking**: Users can log their daily food intake and exercise routines.
+  
+- **Real-time Feedback**: The app evaluates user data and provides instant alerts regarding their health status (safe, normal, danger).
 
+- **Personalized Recommendations**: Tracks user habits over time and offers tailored suggestions for improving health.
+
+- **User-friendly Interface**: Designed with simplicity in mind, making it accessible for users with limited digital literacy.
+
+## Getting Started
 ## Technologies Used 🛠️
 
 - **HTML**: To structure the app’s layout.
@@ -28,14 +32,15 @@ Welcome to the **Diabeaters App**,This app was developed as part of a **communit
 - **JavaScript**: To handle user inputs, process data, and provide real-time feedback on health status.
 
 ## Screenshots 🖼️
+<br>
+Here’s a screenshots of the Diabeaters App in action:
 
-Here’s a screenshots of the Diabeaters App in action:<br>
-![Untitled design](https://github.com/user-attachments/assets/f2c7b0c4-c3b6-4143-884e-27143a741287)
+![Untitled design](https://github.com/user-attachments/assets/074562b8-e4a3-4837-a738-1bbf78f4ad39)
 
   
 ## Links 📌
 
-- Live Site URL: https://doondigangadhar30.github.io/csp/
+- Live Site URL: https://doondigangadhar30.github.io/Community_service_project/
 - Project Repo: https://github.com/doondigangadhar30/csp
 - Let's connect: [LinkedIn](https://www.linkedin.com/in/doondi/) 
 

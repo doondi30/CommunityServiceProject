@@ -2,13 +2,13 @@
 
 Welcome to the **Diabeaters App**,This app was developed as part of a **community service project** aimed at improving the lives of people dealing with chronic diseases like diabetes.
 
-## Table of Contents 📖
-
-- [Overview 🎯](#overview-)
-- [Features ✨](#features-)
-- [Technologies Used 🛠️](#technologies-used-)
-- [Screenshots 🖼️](#screenshots-)
-- [Links 📌](#links-)
+## Table of Contributors 📖
+| Name                | Role                       |
+|---------------------|---------------------------|
+| [ <img src="https://github.com/doondigangadhar30.png" width="30"> &nbsp; R Doondi Gangadhar](https://github.com/doondigangadhar30) | Frontend Developer |
+| [<img src="https://github.com/chaitu965.png" width="30">  &nbsp;P Chaitanya ](https://github.com/chaitu965) |UI/UX Design Lead |
+| [<img src="https://github.com/Sanjeev-Uppu.png" width="30"> &nbsp; U Sanjeev ](https://github.com/Sanjeev-Uppu) |  Quality Assurance Tester|
+| [<img src="https://github.com/Praneeth-velicharla.png" width="30"> &nbsp; V Praneeth ](https://github.com/Praneeth-velicharla) | Frontend Developer |
 
 ## Overview 🎯
 

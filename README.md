@@ -3,16 +3,19 @@
 Welcome to the **Diabeaters App**,This app was developed as part of a **community service project** aimed at improving the lives of people dealing with chronic diseases like diabetes.
 
 ## Table of Contributors 📖
-| Name                | Role                       |
-|---------------------|---------------------------|
-| [ <img src="https://github.com/doondigangadhar30.png" width="30"> &nbsp; R Doondi Gangadhar](https://github.com/doondigangadhar30) | Frontend Developer |
-| [<img src="https://github.com/chaitu965.png" width="30">  &nbsp;P Chaitanya ](https://github.com/chaitu965) |UI/UX Design Lead |
-| [<img src="https://github.com/Sanjeev-Uppu.png" width="30"> &nbsp; U Sanjeev ](https://github.com/Sanjeev-Uppu) |  Quality Assurance Tester|
-| [<img src="https://github.com/Praneeth-velicharla.png" width="30"> &nbsp; V Praneeth ](https://github.com/Praneeth-velicharla) | Frontend Developer |
+| Profile     | Name           | Role             |
+|-------------|----------------|------------------|
+|<img src="https://github.com/doondigangadhar30.png" width="100">| [R Doondi Gangadhar ](https://github.com/doondigangadhar30) | Frontend Developer |
+| <img src="https://github.com/chaitu965.png" width="100"> | [P Chaitanya ](https://github.com/chaitu965) |UI/UX Design Lead |
+| <img src="https://github.com/Sanjeev-Uppu.png" width="100"> | [ U Sanjeev ](https://github.com/Sanjeev-Uppu) |  Quality Assurance Tester|
+| <img src="https://github.com/Praneeth-velicharla.png" width="100"> | [ V Praneeth ](https://github.com/Praneeth-velicharla) | Frontend Developer |
 
 ## Overview 🎯
 
 **Diabeaters** is a health-monitoring app that helps users keep track of their daily food intake and exercise routines. The app also provides real-time feedback on the user's health status, categorizing it into **Safe, Normal, or Danger** based on their activity and consumption patterns. This tool is designed to support individuals, especially those in rural areas, to take control of their health habits and manage chronic conditions like diabetes effectively.
+
+[View Presentation](presentation/Diabeters.pdf)
+
 
 ## Features ✨
 

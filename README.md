@@ -14,7 +14,7 @@ Welcome to the **Diabeaters App**,This app was developed as part of a **communit
 
 **Diabeaters** is a health-monitoring app that helps users keep track of their daily food intake and exercise routines. The app also provides real-time feedback on the user's health status, categorizing it into **Safe, Normal, or Danger** based on their activity and consumption patterns. This tool is designed to support individuals, especially those in rural areas, to take control of their health habits and manage chronic conditions like diabetes effectively.
 
-[View Presentation](presentation/Diabeters.pdf)
+[View Presentation](presentation/Diabeaters.pdf)
 
 
 ## Features ✨

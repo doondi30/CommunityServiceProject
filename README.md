@@ -46,7 +46,7 @@ Here’s a screenshots of the Diabeaters App in action:
   
 ## Links 📌
 
-- Live Site URL: https://doondigangadhar30.github.io/CommunityServiceProject/
+- Live Site URL: https://doondi30.github.io/CommunityServiceProject/
 - Project Presentation: [Click here ](presentation/Diabeaters.pdf)
 - Project Presentation: [Click here (Alternative link )](https://drive.google.com/file/d/1m1e7j1osF7vKcGnsN-ZCkZzV2Op7eJ9N/view?usp=sharing)
 - Project Report: [Click here ](https://drive.google.com/file/d/1d6uaY39FXUH7foWdeOudyJHiUIvAH0-l/view?usp=sharing)

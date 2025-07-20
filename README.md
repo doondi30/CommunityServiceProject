@@ -5,7 +5,7 @@ Welcome to the **Diabeaters App**,This app was developed as part of a **communit
 ## Table of Contributors 📖  
 | Profile | Name | Role | Profile | Name | Role |
 |---------|------|------|---------|------|------|
-| <img src="https://github.com/doondigangadhar30.png" width="80"> | [R Doondi Gangadhar](https://github.com/doondi30) | Frontend Developer | <img src="https://github.com/chaitu965.png" width="80"> | [P Chaitanya](https://github.com/chaitu965) | UI/UX Design Lead |
+| <img src="https://github.com/doondi30.png" width="80"> | [R Doondi Gangadhar](https://github.com/doondi30) | Frontend Developer | <img src="https://github.com/chaitu965.png" width="80"> | [P Chaitanya](https://github.com/chaitu965) | UI/UX Design Lead |
 | <img src="https://github.com/Sanjeev-Uppu.png" width="80"> | [U Sanjeev](https://github.com/Sanjeev-Uppu) | Quality Assurance Tester | <img src="https://github.com/Praneeth-velicharla.png" width="80"> | [V Praneeth](https://github.com/Praneeth-velicharla) | Frontend Developer |
 
 
